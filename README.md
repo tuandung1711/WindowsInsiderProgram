@@ -3,7 +3,7 @@ OfflineInsiderEnroll is a tool that can enroll Windows Insider Program, such as:
 
 
 
-You can also stop recieving Insider Release Preview.
+You can also stop recieving Insider Release Preview anytime.
 
 
 ![Screenshot 2023-11-11 210405](https://github.com/tuandung1711/WindowsInsiderProgram/assets/134781080/4182c885-c6f9-46a3-9e13-95a2ba52efcf)
